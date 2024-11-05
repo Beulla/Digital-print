@@ -39,7 +39,7 @@ export default function Cta() {
     <iframe className="w-full h-56 rounded-lg" src="https://www.youtube.com/embed/Aikx02HNyiw?rel=0"></iframe>
   </div>
   <div className="w-full sm:w-1/2 lg:w-1/3 rounded-lg overflow-hidden">
-    <iframe className="w-full h-56 rounded-lg" src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0"></iframe>
+    <iframe className="w-full h-56 rounded-lg" src="https://www.youtube.com/embed/NtduUuX-Bk4?rel=0"></iframe>
   </div>
 </div>
 
