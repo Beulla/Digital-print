@@ -41,7 +41,7 @@ const testimonials = [
   {
     img: TestimonialImg03,
     clientImg: ClientImg03,
-    name: "Youahne B.",
+    name: "Yoahne B.",
     company: "",
     content:
       "Brings a creative approach and adds a unique spark that consistently inspires the team and elevates our work.",
